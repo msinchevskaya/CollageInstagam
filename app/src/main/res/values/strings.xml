@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="user_id_key">userId</string>
+    <string name="user_name_key">UserName</string>
+    <string name="app_name">Коллаж</string>
+    <string name="preferences">Preferences</string>
+    <string name="tokenKey">tokenKey</string>
+    <string name="action_settings">Настройки</string>
+    <string name="lets_collage">Давай коллаж</string>
+    <string name="user_name">Введите имя пользователя</string>
+    <string name="empty_user_name">Пустой запрос</string>
+    <string name="auth">Авторизация</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="auth_fail">Ошибка авторизации</string>
+    <string name="user_not_found">Пользователи не найдены</string>
+    <string name="choice_user">Кого вы имели ввиду?</string>
+    <string name="photo_not_loaded">Фотографии не загружены</string>
+    <string name="preview">Предпросмотр</string>
+    <string name="choicePhoto">Выберите хотя бы одну фотографию</string>
+    <string name="send">Отправить</string>
+    <string name="collage_sended">Имитация отправки коллажа</string>
+    <string name="client_id">326e99590a4a4a2ea8d7f8795dba1fea</string>
+    <string name="client_secret">8d9b32e4ce8347d2a07728cab7b730bc</string>
+    <string name="website_url">http://instagram.com/m_sinch</string>
+    <string name="redirect_url">http://instagram.com/m_sinch</string>
+    <string name="instagram_api">https://api.instagram.com/v1</string>
+    <string name="title_activity_users">UsersActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
